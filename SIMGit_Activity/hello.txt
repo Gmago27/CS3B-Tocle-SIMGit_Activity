@@ -1,0 +1,12 @@
+What challenges did you face during this activity?
+
+I think there is none, except for the fact that I had a skill issue as to where my file is located. I realized I made two identical
+directories that it did not detect the "hello.txt" file. Also, I used a different computer so I had to make this computer recognize which GitHub account is used for this activity.
+
+Which Git command was the most confusing?
+
+At first, I think most commands are confusing but with practice and application with our experiences throughout the academic endeavors, I think most commands are easy to follow and can be understood with one search away.
+
+How can version control help in real-world software development?
+
+Version control helps team collaborate efficiently by tracking changes and managing code versions. By version control, it allows easy rollbacks for bug fixes enabling smoother development. 
